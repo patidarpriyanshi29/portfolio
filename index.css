@@ -1,0 +1,235 @@
+body {
+    background-color: black;
+}
+header {
+    background-color: black;
+    color: white;
+}
+li {
+    display: inline-block;
+    float: left;
+    margin: 3px;
+    padding: 34px;
+    font-size: x-large;
+    color: white;
+    background-color: black;
+    cursor: pointer;
+}
+.navi :hover
+{
+   color:red;
+   
+     
+}
+.navi {
+    margin-left: 530px;
+    margin-top: -80px;
+    display: inline-block;
+}
+.conatiner {
+    margin: 0px 0px;
+    display: inline;
+    font-size: 45px;
+    display: inline-block;
+    margin-top: 30px;
+
+}
+.contain {
+    margin-left: 40px;
+
+}
+.btn {
+
+    display: inline-block;
+    margin-top: -90px;
+    float: right;
+    margin-right: 70px;
+
+}
+.btn1 {
+    background-color: red;
+    color: white;
+    border-radius: 50px;
+    width: 129px;
+    height: 40px;
+    font-weight: 400px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 15px;
+
+}
+.btn1:hover
+{
+    color: black;
+    background-color: lightcoral;
+    width: 230px
+}
+.imge {
+    height: 600px;
+    width: 400px;
+    border-radius: 200px;
+    margin-left: 23px;
+    mix-blend-mode: overlay;
+    color: red;
+}
+/* .images {
+    width: 45%;
+    height: 60%;
+    right: 62px;
+    left: 50%;
+    margin-left: 200px;
+    position: absolute;
+    margin-top: 100px;
+    align-items: right;
+    justify-content: right; */
+
+}
+.images img {
+    height: 100%;
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    transform: translateX(-50%);
+    transition: bottom 1s, left 1s;
+    border: 2px solid white;
+    border-color: red;
+    border-radius: 45px;
+    box-shadow: 3px px white;
+    display: inline-block;
+    float: right;
+}
+
+.hello {
+    margin-left: 300px;
+    color: white;
+    /* display: inline-block; */
+    margin-top: 250px;
+}
+hello1 {
+    margin-top: 700px;
+    font-size: x-large;
+}
+.main {
+    margin-top: 60px;
+    font-size: x-large;
+    margin-left: initial;
+}
+.name {
+    color: white;
+    display: inline-block;
+    margin-top: 18px;
+    text-align: center;
+    font-size: 70px;
+    margin-left: 8px;
+}
+.myname {
+    font-size: 67px;
+    margin-left: 280px;
+    margin-top: -35px;
+    font-family: 'Asap Condensed', sans-serif;
+}
+.web {
+    margin-top: -112px;
+}
+.btn2 {
+    width: 400px;
+    height: 55px;
+    border: 2px solid red;
+    border-radius: 50px;
+    margin-left: 280px;
+    text-align: justify;
+    padding-left: 28px;
+    font-size: x-large;
+}
+.btn3 {
+    background-color: red;
+    color: white;
+    border-radius: 10px;
+    margin-left: -90px;
+    width: 70px;
+    height: 30px;
+    border-radius: 23px;
+}
+.images {
+    margin-top: 350px;
+}
+.about1
+{
+    color: white;
+    font-size: 120px;
+    margin-bottom: 23px;  
+}
+.about2
+{
+    color: white;
+    display: inline-block;
+    margin-left: 8px;
+    font-size:xx-large;
+    margin-top: -700px;
+}
+.aboutpara
+{
+    color:white;
+    margin-left: 10px;
+    width: 700px;
+    height: 100px;
+    margin-bottom: -182px;
+    text-align:justify;
+    font-size: x-large;
+    font-family: 'Asap Condensed', sans-serif;
+}
+.about{
+color:white;
+margin-top: 400px;
+margin-left:1063px;
+margin-bottom: 23px;
+
+}
+.girl2
+{
+    width: 400px;
+    height: 600px;
+    float: left;
+    margin-left: -721px;
+    margin-bottom: 300px;
+    box-shadow: 7px 5px 10px 3px rgb(177, 68, 68);
+    border: 2px soid red;
+    border-radius:70px;
+    margin-top: -56px;  
+}
+.btn5
+{
+    background-color: red;
+    color: white;
+     width: 100px;
+     text-align: center;
+     margin-top: 300px;
+     border-radius: 100px;
+     height: 34px;
+}
+.btn5:hover
+{
+    background-color: white;
+    color: red;
+}
+footer{
+    background-color: #121010;
+    color: white;
+    height: 150px;
+    text-align: center;
+    margin-top: 300px;
+    padding-top: 54px;
+    font-size: xx-large;
+    font-family: 'Asap Condensed', sans-serif;
+}
+.btn6
+{
+    background-color: red;
+    color: white;
+    width:100px;
+    height: 23px;
+    border-radius: 23px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    font-family: 'Asap Condensed', sans-serif;
+}
